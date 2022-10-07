@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+article,
+img {
+  border-radius: 20px;
+}
+
+body {
+  font-family: "Open Sans";
+}
+
+.bolder {
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.btn {
+  border: none;
+  background: none;
+  color: dodgerblue;
+}
+
+.grey {
+  color: gray;
+}
